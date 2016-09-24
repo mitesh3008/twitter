@@ -1,2 +1,3 @@
 # twitter
-to clone a twitter for learning purpose
+
+clone a twitter app for learning purpose
